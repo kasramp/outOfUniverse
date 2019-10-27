@@ -4,21 +4,13 @@ install:
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_0.58.3_Linux-64bit.deb
   - sudo dpkg -i hugo_0.58.3_Linux-64bit.deb
 script:
-  - git config --global user.email $GITHUB_EMAIL
-  - git config --global user.name $GITHUB_USERNAME
-  - git remote rm origin
-  - git remote add origin https://$GITHUB_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
-  - git symbolic-ref HEAD refs/heads/master
   - chmod +x setup.sh
-  - ./setup.sh
   - hugo -d ../generated
-  - git fetch
-  - git checkout gh-pages
-  - git branch --set-upstream-to=origin/gh-pages gh-pages
-  - git pull
-  - cp -r ../generated/* .
-  - git add .
-  - git remote rm origin
-  - git remote add origin https://$GITHUB_TOKEN@github.com/$TRAVIS_REPO_SLUG.git
-  - git commit -m "Add new content $(date '+%Y-%m-%d %H:%M:%S')"
-  - git push --set-upstream origin gh-pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  local_dir: ../generated
+  on:
+    branch: master
