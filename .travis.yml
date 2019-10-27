@@ -12,7 +12,9 @@ script:
   - chmod +x setup.sh
   - ./setup.sh
   - hugo -d ../generated
-  - git checkout origin/gh-pages
+  - git fetch
+  - git checkout gh-pages
+  - git branch --set-upstream-to=origin/gh-pages gh-pages
   - git pull
   - cp -r ../generated/* .
   - git add .
