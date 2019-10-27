@@ -10,12 +10,26 @@ To run this repository in local, first run `setup.sh` script to get the Jane the
 $ hugo server
 ```
 
+To see the changes on a draft blog post run,
+
+```bash
+$ ./watch.sh
+```
+
 ## Build the blog
 
 To generate the static content, just run:
 
 ```bash
 $ hugo
+```
+
+## Add a new post
+
+To add a new post use `hugo` command like below,
+
+```bash
+$ hugo new posts/[name-of-the-post.md]
 ```
 
 ## Contact
