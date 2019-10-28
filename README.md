@@ -1,4 +1,4 @@
-# Out of Universe
+# Out of Universe [![Build Status](https://travis-ci.org/kasramp/outOfUniverse.svg?branch=master)](https://travis-ci.org/kasramp/outOfUniverse) 
 
 This repository host the contents of **Out of Universe** blog. It's using [Hugo](https://gohugo.io/) and [Jane](https://github.com/xianmin/hugo-theme-jane) theme.
 
