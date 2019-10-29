@@ -50,7 +50,7 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "Geeks Web blog"
+  name = "Personal blog"
   weight = 50
   url = "https://blog.madadipouya.com"
 
