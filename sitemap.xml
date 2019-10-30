@@ -24,14 +24,63 @@
   
   <url>
     <loc>https://kasramp.github.io/outOfUniverse/</loc>
-    <lastmod>2019-10-29T21:41:52+08:00</lastmod>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kasramp.github.io/outOfUniverse/categories/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/post/how_voyager_computers_working/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/post/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/categories/voyager/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/voyager-1/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/voyager-2/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/voyagers/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/math/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kasramp.github.io/outOfUniverse/tags/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -65,14 +107,14 @@
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/post/math-preview/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/categories/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/post/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/post/math-preview/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -87,13 +129,6 @@
   
   <url>
     <loc>https://kasramp.github.io/outOfUniverse/tags/tag-6/</loc>
-    <lastmod>2019-03-05T16:01:23+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -177,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/english/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/english/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

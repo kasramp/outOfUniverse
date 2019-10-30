@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 08:37:46 +0100</lastBuildDate>
     
 	<atom:link href="https://kasramp.github.io/outOfUniverse/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>voyager 1</title>
+      <link>https://kasramp.github.io/outOfUniverse/tags/voyager-1/</link>
+      <pubDate>Wed, 30 Oct 2019 08:37:46 +0100</pubDate>
+      
+      <guid>https://kasramp.github.io/outOfUniverse/tags/voyager-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voyager 2</title>
+      <link>https://kasramp.github.io/outOfUniverse/tags/voyager-2/</link>
+      <pubDate>Wed, 30 Oct 2019 08:37:46 +0100</pubDate>
+      
+      <guid>https://kasramp.github.io/outOfUniverse/tags/voyager-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voyagers</title>
+      <link>https://kasramp.github.io/outOfUniverse/tags/voyagers/</link>
+      <pubDate>Wed, 30 Oct 2019 08:37:46 +0100</pubDate>
+      
+      <guid>https://kasramp.github.io/outOfUniverse/tags/voyagers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>math</title>
@@ -161,33 +188,6 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://kasramp.github.io/outOfUniverse/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>https://kasramp.github.io/outOfUniverse/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kasramp.github.io/outOfUniverse/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://kasramp.github.io/outOfUniverse/tags/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://kasramp.github.io/outOfUniverse/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-5</title>
-      <link>https://kasramp.github.io/outOfUniverse/tags/tag-5/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://kasramp.github.io/outOfUniverse/tags/tag-5/</guid>
       <description></description>
     </item>
     
