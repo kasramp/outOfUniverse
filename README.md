@@ -29,7 +29,7 @@ $ hugo
 To add a new post use `hugo` command like below,
 
 ```bash
-$ hugo new posts/[name-of-the-post.md]
+$ hugo new post/[name-of-the-post.md]
 ```
 
 ## Contact
