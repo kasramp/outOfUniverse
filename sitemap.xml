@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/shortcodes/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/shortcodes/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/golang/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/golang/</loc>
+    <loc>https://kasramp.github.io/outOfUniverse/categories/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
