@@ -6,6 +6,7 @@ install:
 script:
   - chmod +x setup.sh
   - hugo -d ../generated
+  - echo "http://outofuniverse.madadipouya.com" >> ../generated/CNAME
 deploy:
   provider: pages
   skip_cleanup: true
