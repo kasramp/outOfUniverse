@@ -9,7 +9,35 @@
   </url>
   
   <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/astronomy/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/post/astronomy_books/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://outofuniverse.madadipouya.com/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/book/</loc>
+    <lastmod>2019-10-30T08:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/categories/books/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
