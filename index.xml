@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astronomy posts by a computer geek</title>
-    <link>https://kasramp.github.io/outOfUniverse/</link>
+    <link>http://outofuniverse.madadipouya.com/</link>
     <description>Recent content on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Oct 2019 08:37:46 +0100</lastBuildDate>
     
-        <atom:link href="https://kasramp.github.io/outOfUniverse/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://outofuniverse.madadipouya.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://kasramp.github.io/outOfUniverse/about/</link>
+      <link>http://outofuniverse.madadipouya.com/about/</link>
       <pubDate>Tue, 29 Oct 2019 21:38:52 +0800</pubDate>
       
-      <guid>https://kasramp.github.io/outOfUniverse/about/</guid>
+      <guid>http://outofuniverse.madadipouya.com/about/</guid>
       
         <description>&lt;p&gt;Out of Universe is an astronomy platform created by a computer geek, &lt;a href=&#34;https://blog.madadipouya.com&#34;&gt;Kasra Madadipouya&lt;/a&gt;.
 Here, mainly the interesting astronomy news is shared, especially the ones related to expo planets (extra-solar planets),
@@ -27,10 +27,10 @@ earth-like planets, Mars Curiosity rover, and Kepler, Voyager 1, 2 missions.&lt;
     
     <item>
       <title>Posts</title>
-      <link>https://kasramp.github.io/outOfUniverse/post/</link>
+      <link>http://outofuniverse.madadipouya.com/post/</link>
       <pubDate>Wed, 30 Oct 2019 08:37:46 +0100</pubDate>
       
-      <guid>https://kasramp.github.io/outOfUniverse/post/</guid>
+      <guid>http://outofuniverse.madadipouya.com/post/</guid>
       
         <description></description>
       

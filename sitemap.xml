@@ -1,71 +1,71 @@
-<?xml-stylesheet type="text/xsl" href="https://kasramp.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://outofuniverse.madadipouya.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/about/</loc>
+    <loc>http://outofuniverse.madadipouya.com/about/</loc>
     <lastmod>2019-10-29T21:41:52+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/</loc>
+    <loc>http://outofuniverse.madadipouya.com/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/</loc>
+    <loc>http://outofuniverse.madadipouya.com/categories/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/post/how_voyager_computers_working/</loc>
+    <loc>http://outofuniverse.madadipouya.com/post/how_voyager_computers_working/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/post/</loc>
+    <loc>http://outofuniverse.madadipouya.com/post/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/categories/voyager/</loc>
+    <loc>http://outofuniverse.madadipouya.com/categories/voyager/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/voyager-1/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/voyager-1/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/voyager-2/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/voyager-2/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kasramp.github.io/outOfUniverse/tags/voyagers/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/voyagers/</loc>
     <lastmod>2019-10-30T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

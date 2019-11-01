@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>voyager 2 on Astronomy posts by a computer geek</title>
-    <link>https://kasramp.github.io/outOfUniverse/tags/voyager-2/</link>
+    <link>http://outofuniverse.madadipouya.com/tags/voyager-2/</link>
     <description>Recent content in voyager 2 on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Oct 2019 08:37:46 +0100</lastBuildDate>
     
-	<atom:link href="https://kasramp.github.io/outOfUniverse/tags/voyager-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://outofuniverse.madadipouya.com/tags/voyager-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Voyagers computers are running since 1977</title>
-      <link>https://kasramp.github.io/outOfUniverse/post/how_voyager_computers_working/</link>
+      <link>http://outofuniverse.madadipouya.com/post/how_voyager_computers_working/</link>
       <pubDate>Wed, 30 Oct 2019 08:37:46 +0100</pubDate>
       
-      <guid>https://kasramp.github.io/outOfUniverse/post/how_voyager_computers_working/</guid>
+      <guid>http://outofuniverse.madadipouya.com/post/how_voyager_computers_working/</guid>
       <description>How Voyagers computers are running since 1977 I have always been passionate about Voyager 1, 2 missions. One thing that I have never paid attention to how their computers are working and still sending data to Earth for over 40 years ago. That means Voyager computers have the highest uptime of all the time, over 15K days.
 So to learn more about the Voyager computers, I did a quick search on the internet and came across this awesome video explaining how Voyager computers are designed by Aaron Cummings.</description>
     </item>

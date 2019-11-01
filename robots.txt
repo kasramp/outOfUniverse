@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://kasramp.github.io/outOfUniverse/sitemap.xml
+Sitemap: http://outofuniverse.madadipouya.com/sitemap.xml
