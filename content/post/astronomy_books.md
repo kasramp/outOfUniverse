@@ -1,7 +1,7 @@
 ---
 author: "Kasra Madadipouya"
-date: 2019-10-30T08:37:46+01:00
-title: "Astronomy books for beginners"
+date: 2019-11-01T08:00:00+01:00
+title: "Astronomy books"
 tags: [
     "book",
     "astronomy"
@@ -11,7 +11,7 @@ categories: [
 ]
 ---
 
-## Some astronomy books for beginners
+## Some astronomy books
 
 I have been following astronomy news for quite sometimes but never read a single book about astronomy. Most of knoweldge came from news and Wikipedia. Two days ago I [Space.com](https://space.com) tweeted a list of Astronomy and Sci-Fi books of 2019 which I believe worth sharing,
 
