@@ -3,8 +3,8 @@ author: "Kasra Madadipouya"
 date: 2019-11-06T08:37:46+01:00
 title: "A word on extraterrestrial life"
 tags: [
-    "aliens",
-    "extraterrestrial life"
+    "Aliens",
+    "Extraterrestrial life"
 ]
 categories: [
     "Aliens"

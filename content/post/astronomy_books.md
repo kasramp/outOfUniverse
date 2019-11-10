@@ -3,8 +3,8 @@ author: "Kasra Madadipouya"
 date: 2019-11-01T08:00:00+01:00
 title: "Astronomy books"
 tags: [
-    "book",
-    "astronomy"
+    "Book",
+    "Astronomy"
 ]
 categories: [
     "Books"

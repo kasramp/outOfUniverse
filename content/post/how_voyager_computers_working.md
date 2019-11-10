@@ -3,9 +3,9 @@ author: "Kasra Madadipouya"
 date: 2019-10-30T08:37:46+01:00
 title: "How Voyagers computers are running since 1977"
 tags: [
-    "voyagers",
-    "voyager 1",
-    "voyager 2"
+    "Voyagers",
+    "Voyager 1",
+    "Voyager 2"
 ]
 categories: [
     "Voyager"
