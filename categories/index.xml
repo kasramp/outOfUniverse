@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2019 08:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 10:37:46 +0100</lastBuildDate>
     
 	<atom:link href="http://outofuniverse.madadipouya.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exoplanets</title>
+      <link>http://outofuniverse.madadipouya.com/categories/exoplanets/</link>
+      <pubDate>Sat, 09 Nov 2019 10:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/categories/exoplanets/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aliens</title>
