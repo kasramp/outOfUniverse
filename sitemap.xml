@@ -23,14 +23,21 @@
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/tags/europa/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/curiosity/</loc>
     <lastmod>2019-11-09T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/categories/exoplanets/</loc>
+    <loc>http://outofuniverse.madadipouya.com/categories/curiosity-rover/</loc>
+    <lastmod>2019-11-09T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/europa/</loc>
     <lastmod>2019-11-09T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -44,7 +51,28 @@
   </url>
   
   <url>
+    <loc>http://outofuniverse.madadipouya.com/categories/exoplanets/</loc>
+    <lastmod>2019-11-09T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/post/gorgeous_mars_curiosity_pictures/</loc>
+    <lastmod>2019-11-09T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://outofuniverse.madadipouya.com/tags/mars/</loc>
+    <lastmod>2019-11-09T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/mars-picture/</loc>
     <lastmod>2019-11-09T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -79,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/tags/aliens/</loc>
+    <loc>http://outofuniverse.madadipouya.com/categories/aliens/</loc>
     <lastmod>2019-11-06T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/categories/aliens/</loc>
+    <loc>http://outofuniverse.madadipouya.com/tags/aliens/</loc>
     <lastmod>2019-11-06T08:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
