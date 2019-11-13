@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Nov 2019 10:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 10:37:46 +0100</lastBuildDate>
     
 	<atom:link href="http://outofuniverse.madadipouya.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Curiosity</title>
       <link>http://outofuniverse.madadipouya.com/tags/curiosity/</link>
-      <pubDate>Sat, 09 Nov 2019 10:37:46 +0100</pubDate>
+      <pubDate>Wed, 13 Nov 2019 10:37:46 +0100</pubDate>
       
       <guid>http://outofuniverse.madadipouya.com/tags/curiosity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mars</title>
+      <link>http://outofuniverse.madadipouya.com/tags/mars/</link>
+      <pubDate>Wed, 13 Nov 2019 10:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/tags/mars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mars Oxygen</title>
+      <link>http://outofuniverse.madadipouya.com/tags/mars-oxygen/</link>
+      <pubDate>Wed, 13 Nov 2019 10:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/tags/mars-oxygen/</guid>
       <description></description>
     </item>
     
@@ -35,15 +53,6 @@
       <pubDate>Sat, 09 Nov 2019 10:37:46 +0100</pubDate>
       
       <guid>http://outofuniverse.madadipouya.com/tags/exoplanets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mars</title>
-      <link>http://outofuniverse.madadipouya.com/tags/mars/</link>
-      <pubDate>Sat, 09 Nov 2019 10:37:46 +0100</pubDate>
-      
-      <guid>http://outofuniverse.madadipouya.com/tags/mars/</guid>
       <description></description>
     </item>
     
