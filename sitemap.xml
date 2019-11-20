@@ -10,20 +10,69 @@
   
   <url>
     <loc>http://outofuniverse.madadipouya.com/</loc>
-    <lastmod>2019-11-18T10:37:46+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://outofuniverse.madadipouya.com/tags/cassini/</loc>
-    <lastmod>2019-11-18T10:37:46+01:00</lastmod>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://outofuniverse.madadipouya.com/categories/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/europa/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/categories/europa/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/post/vapor_water_europa/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/jupiter/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/post/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/solar-system/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/</loc>
+    <lastmod>2019-11-20T10:37:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://outofuniverse.madadipouya.com/tags/cassini/</loc>
     <lastmod>2019-11-18T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -37,21 +86,7 @@
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/post/</loc>
-    <lastmod>2019-11-18T10:37:46+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://outofuniverse.madadipouya.com/tags/saturn/</loc>
-    <lastmod>2019-11-18T10:37:46+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://outofuniverse.madadipouya.com/tags/</loc>
     <lastmod>2019-11-18T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -107,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://outofuniverse.madadipouya.com/tags/europa/</loc>
+    <loc>http://outofuniverse.madadipouya.com/categories/exoplanets/</loc>
     <lastmod>2019-11-09T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -115,13 +150,6 @@
   
   <url>
     <loc>http://outofuniverse.madadipouya.com/tags/exoplanets/</loc>
-    <lastmod>2019-11-09T10:37:46+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://outofuniverse.madadipouya.com/categories/exoplanets/</loc>
     <lastmod>2019-11-09T10:37:46+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

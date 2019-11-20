@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europa on Astronomy posts by a computer geek</title>
-    <link>http://outofuniverse.madadipouya.com/tags/europa/</link>
+    <link>http://outofuniverse.madadipouya.com/categories/europa/</link>
     <description>Recent content in Europa on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Nov 2019 10:37:46 +0100</lastBuildDate>
     
-	<atom:link href="http://outofuniverse.madadipouya.com/tags/europa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://outofuniverse.madadipouya.com/categories/europa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>http://outofuniverse.madadipouya.com/post/vapor_water_europa/</guid>
       <description>Evidence of vapor water on Europa This is the second good news from our solar system this week. Two days ago, Titan, and today Europa, the Jupiter moon. As mentioned before scientists speculate the existence of a liquid ocean underneath the Europa icy surface. And today, source, they have announced that they found evidence of vapor water.
 What does it mean to us? It means more possibilities of supporting life on Europa.</description>
-    </item>
-    
-    <item>
-      <title>Possibilities of life out of the Earth</title>
-      <link>http://outofuniverse.madadipouya.com/post/life_out_of_earth/</link>
-      <pubDate>Sat, 09 Nov 2019 10:37:46 +0100</pubDate>
-      
-      <guid>http://outofuniverse.madadipouya.com/post/life_out_of_earth/</guid>
-      <description>Possibilities of life out of the Earth So NASA has confirmed hundreds of exoplanets, source. And seems more yet to come. But these planets are not so close to us. The closest ones are 50 light-years away. And available data about them are rather limited given the far distance.
-This could be very disappointing. Even with the fast speed of technology advancement.
-But wait, there are more viable options.</description>
     </item>
     
   </channel>
