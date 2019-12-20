@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mars on Astronomy posts by a computer geek</title>
+    <link>http://outofuniverse.madadipouya.com/categories/mars/</link>
+    <description>Recent content in Mars on Astronomy posts by a computer geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2019 10:37:46 +0100</lastBuildDate>
+    
+	<atom:link href="http://outofuniverse.madadipouya.com/categories/mars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phobos and Deimos, Mars moons</title>
+      <link>http://outofuniverse.madadipouya.com/post/mars_moons/</link>
+      <pubDate>Fri, 20 Dec 2019 10:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/post/mars_moons/</guid>
+      <description>Introduction Recently, I have stumbled upon an article about Mars moons. To be honest, I didn&amp;rsquo;t know that Mars has any moons at all until I read the article. Anyhow, after reading the article, I decided to write a short blog post to introduce Mars moons for those, like me, who don&amp;rsquo;t know about them.
+Mars moons Mars has two moons named Phobos and Deimos. Phobos is the bigger one and Deimos is the smaller.</description>
+    </item>
+    
+  </channel>
+</rss>

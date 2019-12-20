@@ -6,7 +6,7 @@
     <description>Recent content on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2019 10:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 10:37:46 +0100</lastBuildDate>
     
         <atom:link href="http://outofuniverse.madadipouya.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +21,101 @@
         <description>&lt;p&gt;Out of Universe is an astronomy blog created by a computer geek, &lt;a href=&#34;https://blog.madadipouya.com&#34;&gt;Kasra Madadipouya&lt;/a&gt;.
 Here, mainly the interesting astronomy news is shared with short analysis, especially on topics related to exoplanets (extra-solar planets), earth-like planets, Mars Curiosity rover, and Kepler, Voyager 1, 2 missions.
 By no means what I write here is scientific. It is mainly driven based on my understanding of matters with some speculations and guesses.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Phobos and Deimos, Mars moons</title>
+      <link>http://outofuniverse.madadipouya.com/post/mars_moons/</link>
+      <pubDate>Fri, 20 Dec 2019 10:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/post/mars_moons/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Recently, I have stumbled upon &lt;a href=&#34;https://www.universetoday.com/144372/mars-express-takes-photos-of-phobos-as-it-flies-past/&#34;&gt;an article&lt;/a&gt; about Mars moons. To be honest, I didn&amp;rsquo;t know that Mars has any moons at all until I read the article. Anyhow, after reading the article, I decided to write a short blog post to introduce Mars moons for those, like me, who don&amp;rsquo;t know about them.&lt;/p&gt;
+
+&lt;h2 id=&#34;mars-moons&#34;&gt;Mars moons&lt;/h2&gt;
+
+&lt;p&gt;Mars has two moons named &lt;strong&gt;Phobos&lt;/strong&gt; and &lt;strong&gt;Deimos&lt;/strong&gt;. Phobos is the bigger one and Deimos is the smaller. Both have irregular shapes and compare with the earth-moon are too small.
+The Phobos radius is &lt;strong&gt;11.267 km&lt;/strong&gt;, and Deimos one is &lt;strong&gt;6.2 km&lt;/strong&gt;. Whereas, the earth-moon has the radius of &lt;strong&gt;1,737.1 km&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://outofuniverse.madadipouya.com/image/Phobos-Deimos-orbit-schema.jpg&#34; alt=&#34;credit:ESA/DLR/FU Berlin&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://outofuniverse.madadipouya.com/image/Phobos-Deimos-orbit-schema.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Phobos and Deimos orbiting schema&lt;/h4&gt;
+          &lt;p&gt;credit:ESA/DLR/FU Berlin&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;phobos&#34;&gt;Phobos&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://outofuniverse.madadipouya.com/image/Phobos_Viking1_960.jpg&#34; alt=&#34;credit:Viking Project, JPL, NASA&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://outofuniverse.madadipouya.com/image/Phobos_Viking1_960.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Phobos&lt;/h4&gt;
+          &lt;p&gt;credit:Viking Project, JPL, NASA&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Phobos rises from the west and sets in the east. This takes only &lt;strong&gt;eleven hours&lt;/strong&gt;. Phobos has the average orbital period of &lt;strong&gt;7 hours&lt;/strong&gt;, moon is &lt;strong&gt;27 days&lt;/strong&gt; with the average orbital speed of &lt;strong&gt;2.138 km/s&lt;/strong&gt;, moon is &lt;strong&gt;1.022 km/s&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;deimos&#34;&gt;Deimos&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://outofuniverse.madadipouya.com/image/Deimos.jpg&#34; alt=&#34;credit:NASA/JPL-Caltech/University of Arizona&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://outofuniverse.madadipouya.com/image/Deimos.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Deimos&lt;/h4&gt;
+          &lt;p&gt;credit:NASA/JPL-Caltech/University of Arizona&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;On the other hand, Deimos rises from the east and sets in the west. This takes &lt;strong&gt;131 hours&lt;/strong&gt; with the average orbital period of &lt;strong&gt;1.263 days&lt;/strong&gt; and the average orbital speed of &lt;strong&gt;1.3513 km/s&lt;/strong&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4O4azZsAwkU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Moons_of_Mars&#34;&gt;https://en.wikipedia.org/wiki/Moons_of_Mars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deimos_(moon)&#34;&gt;https://en.wikipedia.org/wiki/Deimos_(moon)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Phobos_(moon)&#34;&gt;https://en.wikipedia.org/wiki/Phobos_(moon)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Moon&#34;&gt;https://en.wikipedia.org/wiki/Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/press/archiv2018/phobos_deimos1/index.html&#34;&gt;https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/press/archiv2018/phobos_deimos1/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apod.nasa.gov/apod/ap181125.html&#34;&gt;https://apod.nasa.gov/apod/ap181125.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nasa.gov/multimedia/imagegallery/image_feature_1302.html&#34;&gt;https://www.nasa.gov/multimedia/imagegallery/image_feature_1302.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       
     </item>
