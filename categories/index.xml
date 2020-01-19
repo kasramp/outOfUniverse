@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2019 10:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 08:37:46 +0100</lastBuildDate>
     
 	<atom:link href="http://outofuniverse.madadipouya.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Earth</title>
+      <link>http://outofuniverse.madadipouya.com/categories/earth/</link>
+      <pubDate>Sun, 19 Jan 2020 08:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/categories/earth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mars</title>
       <link>http://outofuniverse.madadipouya.com/categories/mars/</link>
-      <pubDate>Fri, 20 Dec 2019 10:37:46 +0100</pubDate>
+      <pubDate>Sun, 19 Jan 2020 08:37:46 +0100</pubDate>
       
       <guid>http://outofuniverse.madadipouya.com/categories/mars/</guid>
       <description></description>
