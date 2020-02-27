@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on Astronomy posts by a computer geek</title>
-    <link>http://outofuniverse.madadipouya.com/tags/life/</link>
-    <description>Recent content in life on Astronomy posts by a computer geek</description>
+    <title>Extraterrestrial-life on Astronomy posts by a computer geek</title>
+    <link>http://outofuniverse.madadipouya.com/categories/extraterrestrial-life/</link>
+    <description>Recent content in Extraterrestrial-life on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Feb 2020 08:37:46 +0100</lastBuildDate>
     
-	<atom:link href="http://outofuniverse.madadipouya.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://outofuniverse.madadipouya.com/categories/extraterrestrial-life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <description>Potential planets supporting life in the solar system After a very long time, finally, I stopped procrastinating and start to write about astronomy again.
 In this blog post, I go through the planets that potentially support life in our solar system. I&amp;rsquo;m doing it because scientists found new stuff recently and so many new news floating around.
 Mars We are familiar with Mars, especially after successful Curiosity Rover landing. And it is getting more and more attractive as scientists make discoveries.</description>
-    </item>
-    
-    <item>
-      <title>A place on Earth, water but no life</title>
-      <link>http://outofuniverse.madadipouya.com/post/water_but_no_life/</link>
-      <pubDate>Sat, 30 Nov 2019 10:37:46 +0100</pubDate>
-      
-      <guid>http://outofuniverse.madadipouya.com/post/water_but_no_life/</guid>
-      <description>A place on Earth, water but no life Scientists found a place in Ethiopia where there&amp;rsquo;s water but it has no living life, link.
-  Dallol, Ethiopia credit:Puri Lopez-Garcia
-   What does it mean to us?
-Well not very good news, I am afraid. That could indicate that even if there are places in and out of our solar system that have water, there might not be life there.</description>
     </item>
     
   </channel>

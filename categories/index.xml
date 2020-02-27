@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Astronomy posts by a computer geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jan 2020 08:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 08:37:46 +0100</lastBuildDate>
     
 	<atom:link href="http://outofuniverse.madadipouya.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Extraterrestrial-life</title>
+      <link>http://outofuniverse.madadipouya.com/categories/extraterrestrial-life/</link>
+      <pubDate>Wed, 26 Feb 2020 08:37:46 +0100</pubDate>
+      
+      <guid>http://outofuniverse.madadipouya.com/categories/extraterrestrial-life/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Earth</title>
