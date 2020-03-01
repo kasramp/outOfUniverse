@@ -52,7 +52,7 @@ defaultContentLanguage = "en"           # Default language to use
 [[menu.main]]
   name = "Personal blog"
   weight = 50
-  url = "https://blog.madadipouya.com"
+  url = "https://geekyhacker.com"
 
 
 [params]
