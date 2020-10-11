@@ -82,4 +82,4 @@ defaultContentLanguage = "en"           # Default language to use
   [params.social]                                         # 社交链接
     a-email = "mailto:kasra@madadipouya.com"
     c-twitter = "https://twitter.com/kasra_mp"
-    s-mastodon = "https://linuxrocks.online/@kasra_mp" 
+    s-mastodon = "https://mastodon.social/@kasra_mp" 
