@@ -1,0 +1,21 @@
+/* Home header: drop PaperMod's 320px min-height so posts start right under the title */
+.first-entry {
+    min-height: auto;
+    margin-bottom: var(--gap);
+}
+
+/* Social icons are shown in the page footer instead (layouts/_partials/extend_footer.html) */
+.home-info .entry-footer {
+    display: none;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    padding-bottom: var(--gap);
+}
+
+/* Leave room for the social row so it shows on short pages without scrolling */
+.main {
+    min-height: calc(100vh - var(--header-height) - var(--footer-height) - 54px);
+}

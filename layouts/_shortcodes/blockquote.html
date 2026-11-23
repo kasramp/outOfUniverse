@@ -1,0 +1,10 @@
+{{- /* Named-param port of Jane's blockquote shortcode, used by older posts. */ -}}
+<blockquote>
+  <p>{{ .Inner | markdownify }}</p>
+  {{- with .Get "author" }}
+  <footer>
+    <strong>{{ . }}</strong>
+    {{- with $.Get "link" }} <cite><a href="{{ . }}">{{ $.Get "title" | default . }}</a></cite>{{ end }}
+  </footer>
+  {{- end }}
+</blockquote>
