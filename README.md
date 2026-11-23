@@ -1,10 +1,11 @@
-# Out of Universe [![Build Status](https://travis-ci.org/kasramp/outOfUniverse.svg?branch=master)](https://travis-ci.org/kasramp/outOfUniverse) 
+# Out of Universe [![Deploy](https://github.com/kasramp/outOfUniverse/actions/workflows/deploy.yml/badge.svg)](https://github.com/kasramp/outOfUniverse/actions/workflows/deploy.yml)
 
-This repository host the contents of **Out of Universe** blog. It's using [Hugo](https://gohugo.io/) and [Jane](https://github.com/xianmin/hugo-theme-jane) theme.
+This repository host the contents of **Out of Universe** blog. It's using [Hugo](https://gohugo.io/) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+Pushes to `master` are built and deployed to GitHub Pages by GitHub Actions (`.github/workflows/deploy.yml`).
 
 ## Run in `dev` machine
 
-To run this repository in local, first run `setup.sh` script to get the Jane theme sub module and then run the Hugo server as follow,
+To run this repository in local, first run `setup.sh` script to get the PaperMod theme submodule and then run the Hugo server as follow,
 
 ```bash
 $ hugo server
