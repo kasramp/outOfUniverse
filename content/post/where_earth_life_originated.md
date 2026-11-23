@@ -22,7 +22,7 @@ It was during my holiday that I started to think where possibly Earth life origi
 
 For that, I did some search on the net, as usual, and found an interesting article from [Space.com](https://www.space.com/22577-earth-life-from-mars-theory.html). As strange as it may sound, there's some supporting evidence that Earth's life came from Mars.
 
-{{< figure src="/image/photo-1484589065579-248aad0d8b13" title="Earth life" caption="credit: Joel Filipe" >}}
+{{< figure src="/image/photo-1484589065579-248aad0d8b13.jpg" title="Earth life" caption="credit: Joel Filipe" >}}
 
 Surprising, isn't it? But how?
 
