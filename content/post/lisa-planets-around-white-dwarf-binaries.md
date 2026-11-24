@@ -6,8 +6,9 @@ description: "Two NASA-led studies show how the LISA gravitational-wave observat
 tags: ["Exoplanets", "LISA", "Gravitational waves", "White dwarfs", "Telescopes"]
 categories: ["Exoplanets"]
 cover:
-  image: "/image/lisa-planets-around-white-dwarf-binaries.png"
+  image: "/image/lisa-planets-around-white-dwarf-binaries-cover.png"
   alt: "How LISA could find planets around white dwarf binaries"
+  caption: "credit: LISA-waves by NASA on Wikimedia Commons (Public domain)"
 ---
 
 Most exoplanets we know were found with two methods: transits, where a planet dims its star, and radial velocity, where a planet makes its star wobble. Both need a lot of light from the star. Here is a third idea that I find fun, and it does not use light at all. According to [NASA](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds), two new studies led by NASA astrophysicists show in detail how the LISA gravitational-wave observatory could reveal a new population of exoplanets across the galaxy.
