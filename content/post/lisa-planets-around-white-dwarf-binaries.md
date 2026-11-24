@@ -10,8 +10,6 @@ cover:
   alt: "How LISA could find planets around white dwarf binaries"
 ---
 
-## How LISA could find planets around white dwarf binaries
-
 Most exoplanets we know were found with two methods: transits, where a planet dims its star, and radial velocity, where a planet makes its star wobble. Both need a lot of light from the star. Here is a third idea that I find fun, and it does not use light at all. According to [NASA](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds), two new studies led by NASA astrophysicists show in detail how the LISA gravitational-wave observatory could reveal a new population of exoplanets across the galaxy.
 
 To be clear, this is a mission plan. No planet has been found this way, and [Universe Today](https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets) points out that no planets are currently known around double white dwarfs at all.
